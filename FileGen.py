@@ -2,7 +2,7 @@ import random
 from pathlib import Path
 
 #-----------------------------------------------------
-#---------------CONFIGURATION PARAMETERS -------------
+#---------------CONFIGURATION PARAMETERS ------------- v2
 #-----------------------------------------------------
 numFileToGenerate = 2
 # --------specify the random range of rows that will be generated
